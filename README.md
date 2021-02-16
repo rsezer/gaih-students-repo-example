@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 19.02.2021 
+**Course Date:** 19.02.2021        
 **Name:** Raşit  
 **Surname:** Sezer  
 **Email:** rasitsezer@gmail.com  
@@ -21,4 +21,3 @@ Some python libraries
 
 ### Certification
 ![](img/certificate_ex.png)
-
